@@ -26,4 +26,15 @@
 ## 📂 Featured Projects  
 - 📊 [Sales Dashboard in Streamlit](https://github.com/tusharj89/streamlit-sales-dashboard) — Interactive dashboard for sales data analysis.  
 - 📈 [Stock Portfolio Analyzer](https://github.com/tusharj89/stock-analysis) — Real-time portfolio performance tracker.  
-- 🧠 [Educational Math Game for Kids](https://github.com/tusharj89/)
+- 🧠 [Educational Math Game for Kids](https://github.com/tusharj89/math-game) — Fun, interactive math learning platform.  
+
+---
+
+## 📫 Let's Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tusharj89/)  
+- 📧 Email: your-email@example.com  
+- 🌐 [Portfolio Website](https://tusharj89.github.io/) _(Coming Soon!)_
+
+---
+
+⭐️ *Always exploring new opportunities in Data Analytics & Insights.*
